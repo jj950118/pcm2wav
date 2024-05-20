@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\minato\Desktop\pcm2wav\pcm2wav\main.c(40,3): warning C4098: “main”:“void”函数返回值
+C:\Users\minato\Desktop\pcm2wav\pcm2wav\main.c(52,12): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  pcm2wav.vcxproj -> C:\Users\minato\Desktop\pcm2wav\x64\Debug\pcm2wav.exe
